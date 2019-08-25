@@ -27,6 +27,7 @@ int main()
 
 	printf("\n\n\n\n\n\n\n\n\n**************************************************************");
 	printf("\n\t\t------WELCOME TO THE TELECOM BILLING MANAGEMENT SYSTEM---");
+	printf("\n\t\t------ Antor Mahmud ---");
 	printf("\n\t\t****************************************************************");
 	Sleep(10);
 	getch();
